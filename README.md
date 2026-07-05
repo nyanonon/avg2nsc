@@ -1,6 +1,6 @@
 # avg2nsc
 
-AVG32からNScripterへのシナリオデータコンバータです。[2006/04/18にブログで公開](https://nyanonon.hatenablog.com/entry/20060418/p2)したバージョン 0.4と同じものです。
+AVG32からNScripterへのシナリオデータコンバータです。[2006/04/18にブログで公開](https://nyanonon.hatenablog.com/entry/20060418/p2)したバージョン 0.4と同じものです。後継となる [asc](https://github.com/nyanonon/asc) を公開しています。
 
 ## 概要
 
